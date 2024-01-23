@@ -1,0 +1,10 @@
+C:\Studia C#\Grafy\GrafyRysowanie\bin\Debug\GrafyRysowanie.exe.config
+C:\Studia C#\Grafy\GrafyRysowanie\bin\Debug\GrafyRysowanie.exe
+C:\Studia C#\Grafy\GrafyRysowanie\bin\Debug\GrafyRysowanie.pdb
+C:\Studia C#\Grafy\GrafyRysowanie\obj\Debug\GrafyRysowanie.csproj.AssemblyReference.cache
+C:\Studia C#\Grafy\GrafyRysowanie\obj\Debug\GrafyRysowanie.Form1.resources
+C:\Studia C#\Grafy\GrafyRysowanie\obj\Debug\GrafyRysowanie.Properties.Resources.resources
+C:\Studia C#\Grafy\GrafyRysowanie\obj\Debug\GrafyRysowanie.csproj.GenerateResource.cache
+C:\Studia C#\Grafy\GrafyRysowanie\obj\Debug\GrafyRysowanie.csproj.CoreCompileInputs.cache
+C:\Studia C#\Grafy\GrafyRysowanie\obj\Debug\GrafyRysowanie.exe
+C:\Studia C#\Grafy\GrafyRysowanie\obj\Debug\GrafyRysowanie.pdb
